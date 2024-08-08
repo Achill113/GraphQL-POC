@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfOxLdOcSXfjNR6oEnDY927HS7lMA5c4tO4vwbgm9wtHPZAbjizx7V5OE3nX1iBK0nw8MljTkwJGyMT7xrUsoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\achil\\Projects\\GraphQL_POC\\GraphQL_POC.Models\\GraphQL_POC.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\achil\\.nuget\\packages\\graphql\\7.8.0\\graphql.7.8.0.nupkg.sha512",
+    "C:\\Users\\achil\\.nuget\\packages\\graphql-parser\\8.4.2\\graphql-parser.8.4.2.nupkg.sha512",
+    "C:\\Users\\achil\\.nuget\\packages\\graphql.analyzers\\7.8.0\\graphql.analyzers.7.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

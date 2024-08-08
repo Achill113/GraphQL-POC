@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL_POC", "GraphQL_POC.API\GraphQL_POC.csproj", "{772896E1-54C1-4F6E-909B-BE618979EF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL_POC.Models", "GraphQL_POC.Models\GraphQL_POC.Models.csproj", "{9FC3FA31-508A-494E-BCE0-4A0B4E17B5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL_POC.Infrastructure", "GraphQL_POC.Infrastructure\GraphQL_POC.Infrastructure.csproj", "{63F3A53A-D0CF-44E3-9E2C-F08D0C62BB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL_POC.Service", "GraphQL_POC.Service\GraphQL_POC.Service.csproj", "{ABAF528A-24EC-434B-A9AC-F813E0106784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772896E1-54C1-4F6E-909B-BE618979EF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772896E1-54C1-4F6E-909B-BE618979EF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772896E1-54C1-4F6E-909B-BE618979EF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772896E1-54C1-4F6E-909B-BE618979EF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC3FA31-508A-494E-BCE0-4A0B4E17B5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC3FA31-508A-494E-BCE0-4A0B4E17B5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC3FA31-508A-494E-BCE0-4A0B4E17B5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC3FA31-508A-494E-BCE0-4A0B4E17B5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F3A53A-D0CF-44E3-9E2C-F08D0C62BB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F3A53A-D0CF-44E3-9E2C-F08D0C62BB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F3A53A-D0CF-44E3-9E2C-F08D0C62BB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F3A53A-D0CF-44E3-9E2C-F08D0C62BB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAF528A-24EC-434B-A9AC-F813E0106784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAF528A-24EC-434B-A9AC-F813E0106784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAF528A-24EC-434B-A9AC-F813E0106784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAF528A-24EC-434B-A9AC-F813E0106784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
