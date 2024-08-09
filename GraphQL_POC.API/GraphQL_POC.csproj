@@ -10,10 +10,12 @@
     <PackageReference Include="GraphQL" Version="7.8.0" />
     <PackageReference Include="GraphQL.SystemTextJson" Version="7.8.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\GraphQL_POC.Infrastructure\GraphQL_POC.Infrastructure.csproj" />
     <ProjectReference Include="..\GraphQL_POC.Models\GraphQL_POC.Models.csproj" />
   </ItemGroup>
 
